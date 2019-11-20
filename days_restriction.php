@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Days Restriction
-Version: 3.0
+Version: 4.0
 Description: This Plugin restricts the pages, posts to manage after some interval of days. 
 
 */
